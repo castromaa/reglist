@@ -1,7 +1,7 @@
 List of human transcription factors (TFs)
 ================
 
-This list comprises 2634 TFs, compiled from 5 resources (Carro et al. 2010, Vaquerizas et al. (2009), D. L. Fulton et al. (2009), Yusuf et al. (2012), and Ravasi et al. (2010)), and distributed in the form of an `data frame` object that includes ENTREZ and HGNC gene symbol annotation.
+This list comprises 2634 TFs, compiled from 5 resources (Carro et al. 2010, Vaquerizas et al. (2009), D. L. Fulton et al. (2009), Yusuf et al. (2012), and Ravasi et al. (2010)), and distributed in the form of an `RData` file that includes a `data.frame` with ENTREZ and HGNC gene symbol annotation.
 
 Reference
 =========
